@@ -1,0 +1,17 @@
+{
+  "name": "node-media-controller",
+  "version": "0.0.2",
+  "description": "Sends media player messages such as skip track, play, pause to windows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spotify",
+    "media controller",
+    "windows"
+  ],
+  "author": "Anthony Butcher",
+  "email": "butcherster@gmail.com",
+  "license": "ISC"
+}
