@@ -1,6 +1,6 @@
 {
   "name": "node-media-controller",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Sends media player messages such as skip track, play, pause to windows.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://anthony_b@bitbucket.org/anthony_b/node-media-controller.git"
+    "url": "https://github.com/anthony-butcher/node-media-controller.git"
   },
   "keywords": [
     "spotify",
