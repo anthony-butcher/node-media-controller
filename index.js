@@ -1,7 +1,7 @@
 var execute = require('child_process').exec;
 
 var config = {
-    windowsAppPath: __dirname + '\\bin\\MediaController.Program.exe',
+    windowsAppPath: '"' + __dirname + '\\bin\\MediaController.Program.exe"',
     commands: {
         play: 'play',
         pause: 'pause',
